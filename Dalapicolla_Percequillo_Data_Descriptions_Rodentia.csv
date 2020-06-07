@@ -1,0 +1,123 @@
+Family,Described Species,DCP,MMC,MMG,MPH,mtDNA,nuDNA,MTG,2N,BCN,NIC,ETH,BRE,Species Concept,Authority,Year,Latitude,Longitude,Morphological,Molecular,Cytogenetics,Ecological,Total
+Cricetidae,Akodon paranaensis,1,1,0,0,0,0,0,1,0,0,0,0,Not Informed,"Christoff, Fagundes, Sbalqueiro, Mattevi & Yonenaga-Yassuda",2000,-25.44167,-49.06333,1,0,1,0,3
+Cricetidae,Akodon oenos,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Braun, Mares & Ojeda",2000,-38.8,-68.66667,0,0,0,0,1
+Cricetidae,Brucepattersonius guarani,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,Mares & Braun,2000,-27.1666,-54.16667,0,0,0,0,1
+Cricetidae,Brucepattersonius misionensis,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,Mares & Braun,2000,-27.1666,-54.16667,0,0,0,0,1
+Cricetidae,Brucepattersonius paradisus,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,Mares & Braun,2000,-27.1666,-54.16667,0,0,0,0,1
+Ctenomyidae,Ctenomys paraguayensis,1,0,0,0,0,0,0,1,0,0,0,0,Not Informed,Contreras,2000,-27.4,-57.01667,0,0,1,0,2
+Echimyidae,Mesomys occultus,1,1,0,0,1,0,0,1,0,0,0,0,Phylogenetic Species Concept,"Patton, Da Silva & Malcolm ",2000,-3.28333,-66.23333,1,1,1,0,4
+Cricetidae,Neacomys minutus,1,1,0,0,1,0,0,1,0,0,0,0,Phylogenetic Species Concept,"Patton, Da Silva & Malcolm ",2000,-6.58333,-68.9,1,1,1,0,4
+Cricetidae,Neacomys musseri,1,1,0,0,1,0,0,1,0,0,0,0,Phylogenetic Species Concept,"Patton, Da Silva & Malcolm ",2000,-13.11667,-71.28333,1,1,1,0,4
+Cricetidae,Rhipidomys gardneri,1,0,0,0,1,0,0,1,0,0,0,0,Phylogenetic Species Concept,"Patton, Da Silva & Malcolm ",2000,-12.55,-69.05,0,1,1,0,3
+Cricetidae,Tapecomys primus,1,0,0,0,1,0,0,1,0,0,0,0,Not Informed,Anderson & Yates,2000,-21.43333,-63.91667,0,1,1,0,3
+Octodontidae,Pipanacoctomys aureus,1,0,0,1,0,0,0,0,0,0,0,0,Not Informed,"Mares, Braun, Barquez & Díaz",2000,-27.83333,-66.26667,1,0,0,0,2
+Octodontidae,Salinoctomys loschalchalerosorum,1,0,0,1,0,0,0,0,0,0,0,0,Not Informed,"Mares, Braun, Barquez & Díaz",2000,-30.03333,-65.51667,1,0,0,0,2
+Cricetidae,Aepeomys reigi,1,0,0,0,0,0,0,1,1,0,0,0,Not Informed,"Ochoa, Aguilera, Pacheco & Soriano",2001,9.66667,-69.61667,0,0,2,0,3
+Erethizontidae,Coendou ichillus,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,Voss & da Silva,2001,-2.04867,-77.60581,0,0,0,0,1
+Erethizontidae,Coendou roosmalenorum,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,Voss & da Silva,2001,-5.55,-61.11667,0,0,0,0,1
+Ctenomyidae,Ctenomys lami,1,1,0,0,0,0,0,1,1,0,0,0,Not Informed,Freitas  ,2001,-30.85,-51.83333,1,0,2,0,4
+Cricetidae,Neacomys dubosti,1,1,0,0,0,0,0,0,0,0,0,0,Not Informed,"Voss, Lunde & Simmons",2001,5.28333,-52.91667,1,0,0,0,2
+Cricetidae,Neacomys paracou,1,1,0,0,0,0,0,1,0,0,0,0,Not Informed,"Voss, Lunde & Simmons",2001,5.28333,-52.91667,1,0,1,0,3
+Abrocomidae,Abrocoma uspallata,1,1,0,0,0,0,0,1,0,0,0,0,Not Informed,Braun & Mares,2002,-32.65,-69.33333,1,0,1,0,3
+Cricetidae,Oryzomys maracajuensis,1,0,0,0,0,0,0,1,0,0,0,0,Not Informed,Langguth & Bonvicino,2002,-21.63333,-55.15,0,0,1,0,2
+Cricetidae,Oryzomys scotti,1,0,0,0,0,0,0,1,0,0,0,0,Not Informed,Langguth & Bonvicino,2002,-15.9,-48.8,0,0,1,0,2
+Heteromyidae,Heteromys teleus,1,1,0,0,0,0,0,0,0,0,0,0,Not Informed,Anderson & Jarrín,2002,-1.84522,-80.73844,1,0,0,0,2
+Cricetidae,Juliomys rimofrons,1,0,0,0,1,0,0,1,0,0,0,0,Not Informed,Oliveira & Bonvicino,2002,-22.35,-44.73333,0,1,1,0,3
+Cricetidae,Oxymycterus josei,1,1,0,0,1,0,0,0,0,0,0,0,Not Informed,"Hoffmann, Lessa & Smith",2002,-34.81525,-55.32709,1,1,0,0,3
+Echimyidae,Phyllomys pattoni,1,0,0,0,0,0,0,1,0,0,0,0,Not Informed,"Emmons, Leite, Kock & Costa",2002,-17.71667,-39.25,0,0,1,0,2
+Cricetidae,Thomasomys onkiro,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,Luna & Pacheco,2002,-11.65,-73.66667,0,0,0,0,1
+Echimyidae,Trinomys mirapitanga,1,0,0,0,1,0,0,0,0,0,0,0,Not Informed,"Lara, Patton & Hingst-Zaher",2002,-16.4,-39.18333,0,1,0,0,2
+Cricetidae,Calomys tocantinsi,1,1,0,0,0,0,0,1,0,0,0,0,Not Informed,"Bonvicino, Lima & Almeida",2003,-11.78333,-49.75,1,0,1,0,3
+Cricetidae,Oryzomys marinhus,1,0,0,0,1,0,0,1,0,0,0,0,Not Informed,Bonvicino,2003,-14.8,-45.95,0,1,1,0,3
+Heteromyidae,Heteromys oasicus,1,1,0,0,0,0,0,0,0,0,0,0,Not Informed,Anderson  ,2003,11.81667,-69.95,1,0,0,0,2
+Echimyidae,Phyllomys lundi,1,0,0,0,1,0,0,0,0,0,0,0,Phylogenetic Species Concept,Leite,2003,-22.23333,-44.2,0,1,0,0,2
+Echimyidae,Phyllomys mantiqueirensis,1,0,0,0,1,0,0,0,0,0,0,0,Phylogenetic Species Concept,Leite,2003,-22.6,-45.33333,0,1,0,0,2
+Cricetidae,Rhagomys longilingua,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,Luna & Patterson,2003,-13.1,-71.56667,0,0,0,0,1
+Cricetidae,Thomasomys ucucha,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,Voss  ,2003,-0.36667,-78.13333,0,0,0,0,1
+Caviidae,Galea monasteriensis,1,0,0,0,1,0,0,0,0,0,1,1,Not Informed,"Solmsdorff, Kock, Hohoff & Sachser",2004,-17.72217,-64.89615,0,1,0,2,4
+Cricetidae,Akodon philipmyersi,1,1,0,0,1,0,0,1,0,0,0,0,Not Informed,"Pardiñas, D’Elía, Cirignoli & Suarez",2005,-27.525,-55.86667,1,1,1,0,4
+Echimyidae,Echimys vierai,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Iack-Ximenes, Vivo & Percequillo",2005,-4.41667,-56.21667,0,0,0,0,1
+Cricetidae,Oryzomys acritus,1,1,0,0,1,0,0,0,0,0,0,0,Genetic Species Concept,Emmons & Patton,2005,-14.7,-61.03333,1,1,0,0,3
+Cricetidae,Neusticomys ferreirai,1,0,0,0,0,0,0,1,1,0,0,0,Not Informed,"Percequillo, Carmignotto & Silva",2005,-10.23333,-58.48333,0,0,2,0,3
+Cricetidae,Oligoryzomys moojeni,1,0,0,0,0,0,0,1,0,0,0,0,Not Informed,Weksler & Bonvicino,2005,-14.06667,-47.75,0,0,1,0,2
+Cricetidae,Oligoryzomys rupestris,1,0,0,0,0,0,0,1,0,0,0,0,Not Informed,Weksler & Bonvicino,2005,-14.01667,-47.51667,0,0,1,0,2
+Cricetidae,Rhipidomys cariri,1,1,0,0,0,0,0,0,0,0,0,0,Not Informed,Tribe,2005,-4.21667,-38.93333,1,0,0,0,2
+Cricetidae,Wiedomys cerradensis,1,1,0,0,1,0,0,1,0,0,0,0,Not Informed,"Gonçalves, Almeida & Bonvicino",2005,-14.61667,-45.85,1,1,1,0,4
+Echimyidae,Isothrix barbarabrownae,1,0,0,1,0,0,0,0,0,0,0,0,Not Informed,Patterson & Velazco,2006,-13.1,-71.56667,1,0,0,0,2
+Cricetidae,Juliomys ossitenuis,1,0,0,0,1,0,0,1,0,0,0,0,Not Informed,"Costa, Pavan, Leite & Fagundes",2007,-20.71667,-42.48333,0,1,1,0,3
+Cricetidae,Phyllotis anitae,1,0,0,0,1,0,0,0,0,0,0,0,Not Informed,"Jayat, D’Elía, Pardiñas & Namen",2007,-26.31667,-65.6,0,1,0,0,2
+Cricetidae,Thomasomys andersoni,1,0,0,1,1,0,0,1,0,0,0,0,Not Informed,Salazar-Bravo & Yates,2007,-17.2,-65.86667,1,1,1,0,4
+Cricetidae,Cerradomys langguthi,1,1,0,0,1,0,0,1,1,0,0,0,Not Informed,"Percequillo, Hingst-Zaher & Bonvicino",2008,-7.03333,-35.15,1,1,2,0,5
+Cricetidae,Cerradomys vivoi,1,1,0,0,1,0,0,1,1,0,0,0,Not Informed,"Percequillo, Hingst-Zaher & Bonvicino",2008,-14.8,-39.26667,1,1,2,0,5
+Cricetidae,Eligmodontia bolsonensis,1,1,0,0,1,0,0,0,0,0,0,0,Genetic Species Concept,"Mares, Braun, Coyner & Van Der Bussche",2008,-27.85,-66.3,1,1,0,0,3
+Cricetidae,Oxymycterus wayku,1,1,0,0,1,0,0,0,0,0,0,0,Not Informed,"Jayat, D’Elía, Pardiñas, Miotti & Ortiz",2008,-26.31667,-65.6,1,1,0,0,3
+Echimyidae,Phyllomys sulinus,1,0,0,0,0,0,0,1,0,0,0,0,Not Informed,"Leite, Christoff & Fagundes",2008,-27.38333,-52.3,0,0,1,0,2
+Cricetidae,Abrawayaomys chebezi,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Pardiñas, Teta & D’Elia",2009,-25.68012,-54.50806,0,0,0,0,1
+Heteromyidae,Heteromys catopterius,1,1,0,0,0,0,0,1,0,0,0,0,Not Informed,Anderson & Gutierrez,2009,10.36667,-67.68333,1,0,1,0,3
+Chinchillidae,Lagidium ahuacaense,1,1,0,0,1,0,0,0,0,0,0,0,Genetic Species Concept,"Ledesma, Werner, Spotorno & Albuja",2009,-4.3,-79.53333,1,1,0,0,3
+Cricetidae,Oecomys sydandersoni,1,1,0,0,0,0,0,0,0,0,0,0,Not Informed,"Carleton, Emmons & Musser",2009,-14.76667,-61.03333,1,0,0,0,2
+Cricetidae,Akodon polopi,1,1,0,0,1,0,0,0,0,0,0,0,Not Informed,"Jayat, Ortiz, Salazar-Bravo, Pardiñas & D’Elía",2010,-31.6,-64.8,1,1,0,0,3
+Cricetidae,Akodon viridescens,1,1,0,0,1,0,0,1,0,0,0,0,Genetic Species Concept,"Braun, Mares, Coyner & Van Den Bussche",2010,-32.95048,-66.00013,1,1,1,0,4
+Cricetidae,Calomys cerqueirai,1,1,0,0,1,0,0,1,0,0,0,0,Not Informed,"Bonvicino, Oliveira & Gentile",2010,-19.07639,-41.875,1,1,1,0,4
+Cricetidae,Phyllotis alisosiensis,1,1,0,0,1,0,0,0,0,0,0,0,Not Informed,"Ferro, Martínez & Barquez",2010,-27.18333,-65.95,1,1,0,0,3
+Cricetidae,Cerradomys goytaca,1,1,0,0,0,0,0,1,0,0,0,0,Not Informed,"Tavares, Pessôa & Gonçalves",2011,-22.25,-41.65,1,0,1,0,3
+Cricetidae,Drymoreomys albimaculatus,1,1,0,0,1,1,0,0,0,0,0,0,Not Informed,"Percequillo, Weksler & Costa",2011,-24.33333,-48.41667,1,2,0,0,4
+Cricetidae,Rhipidomys ipukensis,1,0,0,0,1,0,0,0,0,0,0,0,Not Informed,"Rocha, Ferreira, Costa, Martins, Leite, Costa, & Fonseca",2011,-10.86667,-49.68333,0,1,0,0,2
+Cricetidae,Rhipidomys itoan,1,1,0,0,1,0,0,1,1,0,0,0,Genetic Species Concept,"Costa, Geise, Pereira & Costa",2011,-22.46667,-42.98333,1,1,2,0,5
+Cricetidae,Rhipidomys tribei,1,1,0,0,1,0,0,1,1,0,0,0,Genetic Species Concept,"Costa, Geise, Pereira & Costa",2011,-20.08333,-43.5,1,1,2,0,5
+Ctenomyidae,Ctenomys ibicuiensis,1,0,1,0,1,0,0,1,0,0,0,0,Not Informed,"Freitas, Fernandes, Fornel & Roratto",2012,-29.38333,-55.41667,1,1,1,0,4
+Cricetidae,Akodon josemariarguedasi,1,1,0,0,0,0,0,1,0,0,0,0,Not Informed,"Jiménez, Pacheco & Vivas",2013,-10.15,-76.13333,1,0,1,0,3
+Erethizontidae,Coendou speratus,1,1,0,0,1,0,0,0,0,0,0,0,Not Informed,"Pontes, Gadelha, Melo, Bezerra de Sá, Loss, Caldara-Júnior, Costa & Leite",2013,-8.52948,-35.16919,1,1,0,0,3
+Erethizontidae,Coendou (Coendou) baturitensis,1,0,0,0,0,0,0,0,0,0,0,0,Biological Species Concept,Feijó & Langguth,2013,-4.39181,-39.01261,0,0,0,0,1
+Dasyproctidae,Dasyprocta iacki,1,0,0,0,0,0,0,0,0,0,0,0,Biological Species Concept,Feijó & Langguth,2013,-6.73333,-35.15,0,0,0,0,1
+Cricetidae,Eligmodontia dunaris,1,1,0,0,1,0,0,1,1,0,0,0,Evolutionary Species Concept,"Spotorno, Zuleta, Walker, Manriquez, Valladares & Marin ",2013,-29.23333,-71.3,1,1,2,0,5
+Cricetidae,Holochilus lagigliai,1,1,0,0,0,0,0,0,0,0,0,0,Not Informed,"Pardiñas, Teta, Voglino & Fernandez",2013,-35.06667,-68.71667,1,0,0,0,2
+Cricetidae,Calassomys apicalis,1,0,0,0,1,1,0,1,0,0,0,0,Not Informed,"Pardiñas, Lessa, Teta, Salazar-Bravo & Câmara",2014,-19.95,-43.78333,0,2,1,0,4
+Cricetidae,Calomys achaku,1,0,0,0,1,0,0,0,0,0,0,0,Not Informed,"Zeballos, Palma, Marquet & Ceballos",2014,-15.64242,-71.73373,0,1,0,0,2
+Cricetidae,Calomys chinchilico,1,0,0,0,1,0,0,0,0,0,0,0,Not Informed,"Zeballos, Palma, Marquet & Ceballos",2014,-15.7824,-74.35365,0,1,0,0,2
+Cricetidae,Cerradomys akroai,1,1,0,0,1,0,0,1,0,0,0,0,Not Informed,"Bonvicino, Casado & Weksler",2014,-11.8,-46.76667,1,1,1,0,4
+Ctenomyidae,Ctenomys andersoni,1,1,0,0,1,0,0,1,0,0,0,0,Not Informed,"Gardner, Salazar-Bravo & Cook",2014,-19.8,-63.51667,1,1,1,0,4
+Ctenomyidae,Ctenomys erikacuellarae,1,1,0,0,1,0,0,1,0,0,0,0,Not Informed,"Gardner, Salazar-Bravo & Cook",2014,-19.71667,-63.85,1,1,1,0,4
+Ctenomyidae,Ctenomys lessai,1,1,0,0,1,0,0,1,0,0,0,0,Not Informed,"Gardner, Salazar-Bravo & Cook",2014,-17.75,-64.98333,1,1,1,0,4
+Ctenomyidae,Ctenomys yatesi,1,1,0,0,1,0,0,0,0,0,0,0,Not Informed,"Gardner, Salazar-Bravo & Cook",2014,-18.26667,-60.11667,1,1,0,0,3
+Cricetidae,Delomys altimontanus,1,1,0,0,1,0,0,1,0,0,0,0,Genetic Species Concept,Gonçalves & Oliveira,2014,-22.38333,-44.66667,1,1,1,0,4
+Cricetidae,Phyllotis pearsoni,1,1,0,0,0,0,0,1,0,0,0,0,Not Informed,"Pacheco, Rengifo & Vivas",2014,-7.95,-78.23333,1,0,1,0,3
+Cricetidae,Scapteromys meridionalis,1,1,0,0,1,0,0,1,0,0,0,0,Genetic Species Concept,"Quintela, Gonçalves, Althoff, Sbalqueiro, Oliveira & Freitas",2014,-29.48333,-50.21667,1,1,1,0,4
+Octodontidae,Tympanoctomys kirchenorum,1,1,0,0,1,0,0,1,0,0,0,0,Not Informed,"Teta, Pardiñas, Sauthier & Gallardo",2014,-43.21667,-68.63333,1,1,1,0,4
+Cricetidae,Abrothrix manni,1,1,0,0,1,1,0,0,0,0,0,0,Not Informed,"D’Elia, Teta, Upham, Pardiñas & Patterson",2015,-41.64763,-72.17222,1,2,0,0,4
+Cricetidae,Calomys mattevi,1,0,0,0,0,0,0,1,0,0,0,0,Not Informed,"Gurgel-Filho, Feijó & Langguth",2015,-14.46667,-46.85,0,0,1,0,2
+Cuniculidae,Agouti silvagarciae,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,Van Roosmalen & Van Hooft,2015,-5.75,-60.25,0,0,0,0,1
+Cricetidae,Neusticomys vossi,1,1,0,0,1,1,0,0,0,0,0,0,Not Informed,"Hanson,  D’Elía, Ayers, Cox, Burneo & Lee",2015,-0.51667,-77.86667,1,2,0,0,4
+Cricetidae,Phyllotis occidens,1,1,0,0,1,0,0,0,0,0,0,0,Not Informed,Rengifo & Pacheco,2015,-12.13333,-76.21667,1,1,0,0,3
+Cricetidae,Akodon kotosh,1,1,0,0,0,0,0,0,0,0,0,0,Not Informed,Jimenez & Pacheco,2016,-9.695,-76.088333,1,0,0,0,2
+Cricetidae,Eremoryzomys mesocaudis,1,1,0,0,0,0,0,0,0,0,0,0,Not Informed,Uturunco & Pacheco,2016,-5.68333,-78.41667,1,0,0,0,2
+Cricetidae,Juliomys ximenezi,1,1,0,0,1,0,0,1,0,0,0,0,Genetic Species Concept,"Christoff, Vieira, Oliveira, Gonçalves, Valiati & Tomasi",2016,-29.15,-50.1,1,1,1,0,4
+Cricetidae,Necromys lilloi,1,1,0,0,1,0,0,0,0,0,0,0,Not Informed,"Jayat, D’Elía, Ortiz & Teta",2016,-26.28333,-64.96667,1,1,0,0,3
+Cricetidae,Oecomys franciscorum,1,1,0,0,1,0,0,0,0,0,0,0,Not Informed,"Pardiñas, Teta, Salazar-Bravo, Myers & Galliari",2016,-25.98273,-58.16778,1,1,0,0,3
+Cricetidae,Deltamys araucaria,1,1,0,0,1,0,0,1,0,0,0,0,Not Informed,"Quintela, Bertuol, González, Cordeiro-Estrela, Freitas & Gonçalves",2017,-29.48333,-50.21667,1,1,1,0,4
+Cricetidae,Geoxus lafkenche,1,1,0,0,1,0,0,0,0,0,0,0,Not Informed,Teta & D’Elía,2017,-43.56667,-74.825,1,1,0,0,3
+Caviidae,Microcavia jayat,1,1,0,0,0,0,0,0,0,0,0,0,Biological Species Concept,"Teta, Ojeda, Lucero & D’ Elía",2017,-26.33333,-64.33333,1,0,0,0,2
+Cricetidae,Neacomys vargasllosai,1,1,0,0,1,0,0,0,0,0,0,0,Not Informed,Hurtado & Pacheco,2017,-14.24167,-69.16667,1,1,0,0,3
+Cricetidae,Rhipidomys albujai,1,0,0,0,1,0,0,0,0,0,1,0,Not Informed,"Brito, Tinoco, Chávez, Moreno-Cárdenas, Batallas & Ojala-Barbour",2017,-2.06667,-78.21667,0,1,0,1,3
+Cricetidae,Neacomys macedoruizi,1,1,0,0,1,0,0,1,0,0,0,0,Genetic Species Concept,"Sánchez-Vendizú, Pacheco & Vivas-Ruiz",2018,-9.4,-76.01,1,1,1,0,4
+Cricetidae,Neacomys rosalindae,1,1,0,0,1,0,0,1,0,0,0,0,Genetic Species Concept,"Sánchez-Vendizú, Pacheco & Vivas-Ruiz",2018,-3.86667,-73.38333,1,1,1,0,4
+Cricetidae,Oligoryzomys yatesi,1,1,0,0,1,0,0,1,0,0,0,0,Not Informed,Palma & Rodriguez-Serrano,2018,-54.08528,-71.22639,1,1,1,0,4
+Echimyidae,Phyllomys centralis,1,0,0,0,1,1,0,1,1,0,0,0,Phylogenetic Species Concept,"Machado, Loss, Paz, Vieira, Rodrigues & Marinho-Filho",2018,-15.95,-47.95,0,2,2,0,5
+Cricetidae,Tanyuromys thomasleei,1,0,0,0,1,0,0,0,0,0,0,0,Not Informed,"Timm, Pine & Hanson",2018,0.31667,-78.91667,0,1,0,0,2
+Echimyidae,Toromys albiventris,1,0,0,0,1,0,1,0,0,0,0,0,Not Informed,Emmons & Fabre,2018,-8.35,-74.59,0,2,0,0,3
+Cricetidae,Brucepattersonius nebulosus,1,1,0,0,1,0,0,1,0,0,0,0,Not Informed,"Abreu-Júnior, Vilela, Christoff, Valiati & Percequillo",2019,-22.78333,-44.35833,1,1,1,0,4
+Cricetidae,Ichthyomys pinei,1,1,0,0,0,0,0,0,0,1,0,0,Not Informed,"Córdova, Nivelo-Villavicencio, Reyes-Puig, Pardiñas & Brito",2019,-3.32277,-79.06221,1,0,0,1,3
+Cricetidae,Oxymycterus itapeby,1,0,1,0,1,1,0,0,0,0,0,0,Genetic Species Concept,"Peçanha, Quintela, Ribas, Althoff, Maestri, Gonçalves & Freitas",2019,-23.58333,-46.96667,1,2,0,0,4
+Cricetidae,Thomasomys salazari,1,1,0,0,1,0,0,0,0,1,0,0,Not Informed," Brito, Tinoco, Curay, Vargas, Reyes-Puig, Romero & Pardiñas",2019,-2.18791,-78.49654,1,1,0,1,4
+Cricetidae,Euryoryzomys australis,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Agnolin, Derguy, Godoy & Chimento ",2019,-27.03333,-54.63333,0,0,0,0,1
+Cricetidae,Oligoryzomys noa,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Agnolin, Derguy, Godoy & Chimento ",2019,-22.88332,-64.44997,0,0,0,0,1
+Cricetidae,Oligoryzomys lanosus,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Agnolin, Derguy, Godoy & Chimento ",2019,-26.78341,-65.38325,0,0,0,0,1
+Cricetidae,Miniakodon rumbolli,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Agnolin, Derguy, Godoy & Chimento ",2019,-37.87497,-58.26285,0,0,0,0,1
+Cricetidae,Miniakodon chebezi,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Agnolin, Derguy, Godoy & Chimento ",2019,-37.36568,-64.61814,0,0,0,0,1
+Cricetidae,Macroakodon naranja,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Agnolin, Derguy, Godoy & Chimento ",2019,-31.7878,-63.81069,0,0,0,0,1
+Cricetidae,Macroakodon calel,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Agnolin, Derguy, Godoy & Chimento ",2019,-38.01446,-65.58452,0,0,0,0,1
+Cricetidae,Macroakodon calilegua,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Agnolin, Derguy, Godoy & Chimento ",2019,-23.76692,-64.77381,0,0,0,0,1
+Cricetidae,Oxymycterus contrerasi,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Agnolin, Derguy, Godoy & Chimento ",2019,-38.20256,-57.78459,0,0,0,0,1
+Cricetidae,Oxymycterus massoiai,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Agnolin, Derguy, Godoy & Chimento ",2019,-27.43777,-55.89461,0,0,0,0,1
+Cricetidae,Calomys apostoli,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Agnolin, Derguy, Godoy & Chimento ",2019,-39.37449,-62.64908,0,0,0,0,1
+Cricetidae,Calomys yunganus,1,0,0,0,0,0,0,0,0,0,0,0,Not Informed,"Agnolin, Derguy, Godoy & Chimento ",2019,-27.1966,-65.31177,0,0,0,0,1
